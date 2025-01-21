@@ -1,2 +1,7 @@
 # Tensorflow_Assingment
-Tensorflow
+
+Done by:
+- Pascal Mugisha
+- Jean Chrisostome Dufitumukiza
+
+
